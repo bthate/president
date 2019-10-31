@@ -1,0 +1,4 @@
+include LICENSE
+include README
+include docs/index.rst
+include docs/conf.py
