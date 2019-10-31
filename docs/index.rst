@@ -49,6 +49,7 @@ Mijn eisen zijn dus:
 1) medicijnen die gif blijken te zijn van de markt af.
 2) gif toedieningen door het Openbaar Ministerie laten vervolgen.
 3) voor de GGZ patient deze vervolging te doen..
+4) de casemanager in de Zorgverzekeringswet.
 
 Er van uitgaande dat u mijn eisen inwilligt,
 

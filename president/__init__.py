@@ -4,6 +4,6 @@
 
 """
 
-__version__ = 16
+__version__ = 17
 
 __txt__ = "Het is gif."

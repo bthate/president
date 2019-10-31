@@ -62,15 +62,15 @@ def uploadlist(dir):
 
 setup(
     name='president',
-    version='16',
+    version='17',
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
     description="Het is gif.",
-    license='MIT',
+    license='Public Domain',
     include_package_data=True,
     zip_safe=False,
-    install_requires=["botz",],
+    install_requires=["obot",],
     scripts=["bin/president"],
     packages=['president', ],
     long_description='''
