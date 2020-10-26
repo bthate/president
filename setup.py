@@ -70,7 +70,7 @@ setup(
     license='Public Domain',
     include_package_data=True,
     zip_safe=False,
-    install_requires=["obot",],
+    install_requires=["botlib", "olib", "feedparser"],
     scripts=["bin/president"],
     packages=['president', ],
     long_description='''
