@@ -26,10 +26,10 @@ Daarom eis ik van u dat u direct medicijnen die gifstoffen blijken te zijn van d
 
 Er is bewijs dat antipsychotica gif zijn:
 
-1) clozapine (leponex) - https://echa.europa.eu/substance-information/-/substanceinfo/100.024.831
-2) olanzapine (zyprexa) - https://echa.europa.eu/substance-information/-/substanceinfo/100.125.320
-3) aripriprazole (abilify) https://echa.europa.eu/substance-information/-/substanceinfo/100.112.532
-4) haloperiodol (haldol) - https://echa.europa.eu/substance-information/-/substanceinfo/100.000.142
+1) haloperiodol (haldol) - https://echa.europa.eu/substance-information/-/substanceinfo/100.000.142
+2) clozapine (leponex) - https://echa.europa.eu/substance-information/-/substanceinfo/100.024.831
+3) olanzapine (zyprexa) - https://echa.europa.eu/substance-information/-/substanceinfo/100.125.320
+4) aripriprazole (abilify) https://echa.europa.eu/substance-information/-/substanceinfo/100.112.532
 
 Dat het hier gif betreft en niet een onschadelijk medicijn maakt dat men een strafbaar feit pleegt. 
 Daarom eis ik van u dat u gif toedieningen laat vervolgen door het Openbaar Ministerie.
