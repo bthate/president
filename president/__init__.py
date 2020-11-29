@@ -1,2 +1,2 @@
-__version__ = 18
+__version__ = 19
 __txt__ = "het is gif"

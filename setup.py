@@ -62,7 +62,7 @@ def uploadlist(dir):
 
 setup(
     name='president',
-    version='18',
+    version='19',
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
