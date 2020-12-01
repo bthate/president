@@ -1,9 +1,9 @@
-.. title:: Het is gif.
+.. title:: the king of the netherlands commits genocide
 
 .. image:: jpg/nederland2.jpg
     :width: 100%
 
-MINISTER-PRESIDENT
+minister-president
 ##################
 
 
