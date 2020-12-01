@@ -1,6 +1,6 @@
 .. _echt:
 
-ECHT
+echt
 ####
 
 Bijv. clozapine kan de volgende potentieel dodelijk aandoeningen veroorzaken:

@@ -1,6 +1,6 @@
 .. _ernstig:
 
-ERNSTIG NADEEL
+ernstig nadeel
 ##############
 
 Voor de toepassing van deze wet en de daarop berustende bepalingen wordt onder “ernstig nadeel” verstaan, het bestaan van of het aanzienlijk risico op:

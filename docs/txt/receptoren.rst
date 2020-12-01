@@ -1,6 +1,6 @@
 .. _receptoren:
 
-RECEPTOREN
+receptoren
 ##########
 
 De volgende informatie geldt voor antipsychotica in het algemeen:

@@ -3,7 +3,7 @@
 .. image:: ../jpg/nederland2.jpg
     :width: 100%
 
-MINISTER-PRESIDENT
+minister-president
 ##################
 
 Geachte Minister-President,

@@ -1,6 +1,6 @@
 .. _risico:
 
-AANZIENLIJK RISICO
+aanzienlijk risico
 ##################
 
 "Zonder schuldig bevinding !"

@@ -1,6 +1,6 @@
 .. _GIF:
 
-GIF
+gif
 ###
 
 Data komt van documentatie bij de FDA, zie http://www.accessdata.fda.gov/scripts/cder/daf/

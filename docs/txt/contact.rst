@@ -1,6 +1,6 @@
 .. _contact:
 
-CONTACT
+contact
 #######
 
 .. image:: ../jpg/bart.jpg

@@ -4,7 +4,7 @@
     :width: 100%
     :height: 4cm
 
-(F)ACT
+(f)act
 ######
 
 Brengt het toedienen van gif levensgevaar, het nalaten de noodzakelijke verpleging te leveren brengt de dood:

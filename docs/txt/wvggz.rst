@@ -1,6 +1,6 @@
 .. _wvggz:
 
-WvGGZ
+wvggz
 #####
 
 Peter C. Gotzsche heeft de Tweede Kamer op 29 maart 2016 geinformeerd over de dodelijkheid van psychiatrische medicijnen. 

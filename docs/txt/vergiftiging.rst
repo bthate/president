@@ -1,6 +1,6 @@
 .. _vergiftiging:
 
-VERGIFTIGING
+vergiftiging
 ############
 
 “Test toont dat men aan het vergiftigen is. De bijwerkingen zijn vergiftigingssymptomen.”

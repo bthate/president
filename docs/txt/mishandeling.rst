@@ -3,7 +3,7 @@
 
 .. _bewijs:
 
-MISHANDELING
+mishandeling
 ############
 
 "Gerichte schade toebrenging."
@@ -14,7 +14,7 @@ MISHANDELING
 
 | 304.3 indien het misdrijf wordt gepleegd door toediening van voor het leven of de gezondheid schadelijke stoffen.
 
-DODELIJK
+dodelijk
 ########
 
 "Hoezo schadelijk?"
@@ -41,7 +41,7 @@ Bijv. clozapine kan de volgende potentieel dodelijk aandoeningen veroorzaken:
 
 | Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen`.
 
-SCHADELIJK
+schadelijk
 ##########
 
 "Hoezo dodelijk ?"
@@ -59,7 +59,7 @@ Schade zijn de volgende ziektes veroorzaakt door antipsychotica:
 | Diabetes
 | Hersenweefselverlies - http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3476840/
 
-SEDEREN
+sederen
 #######
 
 "Intoxicaties met antipsychotica geven vaak aanleiding tot depressie van het centraal zenuwstelsel (CZS), zich in eerste instantie uitend in sedatie."

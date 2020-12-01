@@ -1,6 +1,6 @@
 .. _todo:
 
-TODO
+todo
 ####
 
 Er moet aangifte tegen de staat gedaan worden voor het op grote schaal overtreden van de eigen wet, namelijk het misdrijf tegen het leven gericht.

@@ -1,7 +1,6 @@
 .. _loggen:
 
-LOGGEN
-######
+loggen######
 
 "Het bewust gebruikerschap mag niet onthouden worden."
 
