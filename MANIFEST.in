@@ -1,3 +1,7 @@
 include README.rst
 include docs/index.rst
 include docs/conf.py
+include docs/requirements.txt
+recursive-include docs/txt *
+recursive-include docs/jpg *
+recursive-include docs/_templates *

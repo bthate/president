@@ -1,7 +1,6 @@
 MINISTER-PRESIDENT
 ##################
 
-
 Geachte Minister-President,
 
 Ik ben Bart Thate, een 50 jaar oude schizofrenie patient.
