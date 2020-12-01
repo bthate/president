@@ -3,19 +3,19 @@
 symptomen
 #########
 
-.. include:: VERGIFTIGING
+.. include:: vergiftiging
 
 bijwerkingen
 ============
 
-.. include:: BIJWERKING
+.. include:: bijwerking
 
 negatieve symptomen
 ===================
 
-.. include:: DOPAMINE
+.. include:: dopamine
 
 ontwenning
 ==========
 
-.. include:: ONTWENNING
+.. include:: ontwenning
