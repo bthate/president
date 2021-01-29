@@ -70,7 +70,7 @@ setup(
     license='Public Domain',
     include_package_data=True,
     zip_safe=False,
-    install_requires=["botlib", "olib", "feedparser"],
+    install_requires=["oplib", "feedparser"],
     scripts=["bin/president"],
     packages=['president', ],
     long_description='''
