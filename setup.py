@@ -62,11 +62,11 @@ def uploadlist(dir):
 
 setup(
     name='president',
-    version='19',
+    version='20',
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
-    description="Het is gif.",
+    description="OTP-CR-117/19 otp.informationdesk@icc-cpi.int http://pypi.org/project/genocide !",
     license='Public Domain',
     include_package_data=True,
     zip_safe=False,
