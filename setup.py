@@ -72,7 +72,6 @@ setup(
     zip_safe=False,
     install_requires=["oplib", "feedparser"],
     scripts=["bin/president"],
-    packages=['president', ],
     long_description='''
 Geachte Minister-President,
 

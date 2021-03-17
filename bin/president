@@ -1,41 +1,25 @@
-#!/usr/bin/env python3
-# OTP-CR-117/19 otp.informationdesk@icc-cpi.int http://pypi.org/project/genocide
-#
+#!/usr/bin/env python3 
 # This file is placed in the Public Domain.
 
-"console"
+__version__ = 20
 
-# imports
+from ob import cfg, e, j, op, os
+from ob.csl import Console, exec, parse
 
-from op.run import Console, cfg, exec, parse_cli, os
-
-# defines
-
-cfg.wd = os.path.expanduser("~/.president")
-
-# classes
-
-class Console(Console):
-
-    def direct(self, txt):
-        print(txt)
-
-# functions
+def ver(event):
+    event.reply("PRESIDENT %s" % __version__)
 
 def main():
-    parse_cli()
-    h = Console()
-    h.walk("president")
-    h.fromdir(os.path.join(cfg.wd, "mod"))
-    h.load_mod("cmd,ver")
-    h.load_mod(cfg.mods)
+    cfg.wd = e("~/.president")
+    parse()
+    s = Console()
+    s.add("ver", ver)
+    s.scandir(j(os.getcwd(), "mod"))
     if cfg.txt:
-        return h.cmd(cfg.otxt)
-    if cfg.op("c"):
-        h.start()
-        h.init(cfg.mods)
-        h.wait()
-
-# runtime
+        s.cmd(cfg.old.txt)
+        return
+    s.start()
+    s.init(cfg.mods)
+    s.wait()
 
 exec(main)
