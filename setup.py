@@ -62,7 +62,7 @@ def uploadlist(dir):
 
 setup(
     name='president',
-    version='21',
+    version='22',
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
@@ -70,7 +70,7 @@ setup(
     license='Public Domain',
     include_package_data=True,
     zip_safe=False,
-    install_requires=["oplib", "feedparser"],
+    install_requires=["ob", "feedparser"],
     scripts=["bin/president"],
     long_description='''
 Geachte Minister-President,
