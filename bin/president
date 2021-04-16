@@ -1,25 +1,44 @@
-#!/usr/bin/env python3 
+#!/usr/bin/env python3
 # This file is placed in the Public Domain.
 
-__version__ = 21
+import os, sys ; sys.path.insert(0, os.getcwd())
 
-from ob import cfg, e, j, op, os
-from ob.csl import Console, exec, parse
+from ob.evt import Command
+from ob.krn import Client, Kernel, cmd
+from ob.hdl import cmd
+from ob.trm import exec
+from ob.tbl import tbl
+from ob.zzz import os, sys
 
-def ver(event):
-    event.reply("PRESIDENT %s" % __version__)
+__version__ = 22
+
+class CLI(Client):
+
+    def dosay(self, channel, txt):
+        print(txt)
+
+class Console(CLI):
+
+    def poll(self):
+        return input("> ")
 
 def main():
-    cfg.wd = e("~/.president")
-    parse()
-    s = Console()
-    s.add("ver", ver)
-    s.scandir(j(os.getcwd(), "mod"))
-    if cfg.txt:
-        s.cmd(cfg.old.txt)
-        return
-    s.start()
-    s.init(cfg.mods)
-    s.wait()
+    k = Kernel(tbl)
+    k.version = __version__
+    k.boot()
+    k.scan(os.path.join(os.getcwd(), "mod"))
+    if k.txt:
+        c = CLI()
+    else:
+        c = Console()
+    k.connect(c)
+    if k.txt:
+        e = c.event(k.txt)
+        cmd(c, e)
+        e.wait()
+    elif k.mods:
+        k.start()
+        k.init(k.mods)
+        k.wait()
 
 exec(main)
