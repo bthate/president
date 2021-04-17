@@ -10,7 +10,7 @@ from ob.trm import exec
 from ob.tbl import tbl
 from ob.zzz import os, sys
 
-__version__ = 22
+__version__ = 23
 
 class CLI(Client):
 
@@ -27,16 +27,15 @@ def main():
     k.version = __version__
     k.boot()
     k.scan(os.path.join(os.getcwd(), "mod"))
-    if k.txt:
+    if k.cfg.txt:
         c = CLI()
-    else:
-        c = Console()
-    k.connect(c)
-    if k.txt:
-        e = c.event(k.txt)
+        k.connect(c)
+        e = c.event(k.cfg.otxt)
         cmd(c, e)
         e.wait()
     elif k.mods:
+        c = Console()
+        k.connect(c)
         k.start()
         k.init(k.mods)
         k.wait()

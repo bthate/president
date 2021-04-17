@@ -12,7 +12,7 @@ curdir = os.getcwd()
 sys.path.insert(0, curdir + os.sep)
 sys.path.insert(0, curdir + os.sep + '..' + os.sep)
 
-__version__ = 22
+__version__ = 23
 
 needs_sphinx='1.1'
 nitpick_ignore=[
