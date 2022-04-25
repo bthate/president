@@ -66,11 +66,10 @@ setup(
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
-    description="OTP-CR-117/19 otp.informationdesk@icc-cpi.int http://pypi.org/project/genocide !",
+    description="Prosecutor. Reconsider. OTP-CR-117/19.",
     license='Public Domain',
     include_package_data=True,
     zip_safe=False,
-    install_requires=["ob", "feedparser"],
     scripts=["bin/president"],
     long_description='''
 Geachte Minister-President,
