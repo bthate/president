@@ -2,4 +2,4 @@
 #
 # OTP-CR-117/19/001 otp.informationdesk@icc-cpi.int https://genocide.rtfd.io
 
-rm -fR docs/txt/*~ .readthedocs.yml~ bot/*~ bot/__pycache__ president/*~ president/__pycache__ files/*~ docs/*~ docs/mods*.rst docs/ol*.rst run run.tar.gz html env env.tar.gz mods/*~ mods/__pycache__ ol/*~ ol/__pycache__ .data build dist MANIFEST president.egg-info bin/*~ *~ tests/*~ tests/__pycache__
+rm -fR dev/*~ docs/txt/*~ .readthedocs.yml~ bot/*~ bot/__pycache__ president/*~ president/__pycache__ files/*~ docs/*~ docs/mods*.rst docs/ol*.rst run run.tar.gz html env env.tar.gz mods/*~ mods/__pycache__ ol/*~ ol/__pycache__ .data build dist MANIFEST president.egg-info bin/*~ *~ tests/*~ tests/__pycache__
