@@ -68,7 +68,7 @@ setup(
     author_email='bthate@dds.nl',
     description="Prosecutor. Reconsider. OTP-CR-117/19.",
     license='Public Domain',
-    package=["president"],
+    packages=["president"],
     include_package_data=True,
     zip_safe=False,
     scripts=["bin/president"],
