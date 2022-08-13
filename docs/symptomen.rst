@@ -2,7 +2,7 @@
 
 .. raw:: html
 
-    <br><br>
+    <br><br><br>
 
 .. title:: symptomen
 
@@ -18,7 +18,7 @@ symptomen
 bijwerkingen
 ============
 
-.. include:: bijwerking
+.. include:: bijwerking.rst
 
 negatieve symptomen
 ===================
@@ -28,4 +28,4 @@ negatieve symptomen
 ontwenning
 ==========
 
-.. include:: ontwenning
+.. include:: ontwenning.rst

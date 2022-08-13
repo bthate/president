@@ -1,3 +1,18 @@
+.. title:: bijwerking
+
+.. _bijwerking:
+
+.. raw:: html
+
+    <br><br><br>
+
+bijwerking
+==========
+
+.. raw:: html
+
+    <br>
+
 Bijwerkingen van antipsychotica:
 
 1) psychische verschijnselen

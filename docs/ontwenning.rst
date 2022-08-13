@@ -1,3 +1,19 @@
+.. title:: ontwenning
+
+.. _ontwenning:
+
+.. raw:: html
+
+    <br><br><br>
+
+ontwenning
+==========
+
+.. raw:: html
+
+    <br>
+
+
 Ontwenningsverschijnselen bij antipsychotica:
 
 1) misselijkheid
