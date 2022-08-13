@@ -1,9 +1,13 @@
-.. title:: the king of the netherlands commits genocide
+.. _home:
 
-.. image:: jpg/nederland2.jpg
-    :width: 100%
+.. raw: html
 
-minister-president
+    <br><br>
+
+.. title:: Prosecutor. Court. Reconsider OTP-CR-117/19.
+
+
+MINISTER-PRESIDENT
 ##################
 
 Geachte Minister-President,
@@ -60,7 +64,7 @@ Bart Thate - :ref:`teksten <teksten>`
 
 
 .. toctree::
-    :glob:
     :hidden:
+    :glob:
 
-    txt/*
+    *

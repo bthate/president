@@ -3,7 +3,7 @@
 contact
 #######
 
-.. image:: ../jpg/bart.jpg
+.. image:: bart.jpg
     :scale: 10%
     :align: right
 

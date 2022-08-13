@@ -3,4 +3,4 @@
 tussenkomst
 ###########
 
-.. image:: ../jpg/20151029_004.jpg
+.. image:: 20151029_004.jpg

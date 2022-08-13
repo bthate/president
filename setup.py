@@ -70,7 +70,7 @@ setup(
     license='Public Domain',
     packages=["president"],
     include_package_data=True,
-    zip_safe=False,
+    zip_safe=True,
     scripts=["bin/president"],
     long_description='''
 Geachte Minister-President,
@@ -123,13 +123,11 @@ Bart Thate
     
 
 ''',
-   data_files=[("docs", ["docs/conf.py","docs/index.rst"]),
-               (j('docs', 'jpg'), uploadlist(j("docs","jpg"))),
-               (j('docs', 'txt'), uploadlist(j("docs", "txt"))),
-               (j('docs', '_templates'), uploadlist(j("docs", "_templates")))
+   data_files=[
+               ('docs', uploadlist("docs")),
+               ('docs/_static', uploadlist("docs/_static")),
+               ('docs/_templates', uploadlist("docs/_templates"))
               ],
-   package_data={'': ["*.crt"],
-                 },
    classifiers=[
         'Development Status :: 3 - Alpha',
         'License :: OSI Approved :: MIT License',

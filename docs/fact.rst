@@ -1,6 +1,6 @@
 .. _fact:
 
-.. image:: ../jpg/fact.jpg
+.. image:: fact.jpg
     :width: 100%
     :height: 4cm
 

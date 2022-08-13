@@ -3,4 +3,4 @@
 absoluut
 ~~~~~~~~
 
-.. image:: ../jpg/absoluut2.jpg
+.. image:: absoluut2.jpg

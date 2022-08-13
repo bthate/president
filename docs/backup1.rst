@@ -1,6 +1,6 @@
 .. title:: Het is gif.
 
-.. image:: ../jpg/nederland2.jpg
+.. image:: nederland2.jpg
     :width: 100%
 
 minister-president

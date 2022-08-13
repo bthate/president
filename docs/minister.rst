@@ -3,5 +3,4 @@
 minister
 ~~~~~~~~
 
-.. image:: ../jpg/minister.jpg
-
+.. image:: minister.jpg
