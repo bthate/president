@@ -23,7 +23,7 @@ recht
 
 
 dodelijk
-========
+~~~~~~~~
 
 .. raw:: html
 

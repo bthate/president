@@ -1,7 +1,12 @@
 De medicijnen zijn hoog giftig, gebruik brengt levensgevaar met zich mee en zolang een arts de bloedspiegel van een medicijn niet meet word de toestand van vergiftiging niet opgeheven. Dodelijk als de noodzakelijke verpleging niet aanwezig is om medicijnen snel af te bouwen.
+
  
 mild
-====
+~~~~
+
+.. raw:: html
+
+    <br>
 
 1) gedragsveranderingen (bijv., rusteloosheid, crankiness)
 2) diarree
@@ -16,8 +21,13 @@ mild
 11) pijn of stijfheid in de gewrichten
 12) dorst
 
+
 matig
-=====
+~~~~~
+
+.. raw:: html
+
+    <br>
 
 1) wazig zicht
 2) Verwarring en desoriëntatie
@@ -39,8 +49,13 @@ matig
 18) bevend
 19) zwakte
 
+
 ernstig
-=======
+~~~~~~~
+
+.. raw:: html
+
+    <br>
 
 1) hartstilstand
 2) krampen

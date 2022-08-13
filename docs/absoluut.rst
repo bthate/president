@@ -1,4 +1,4 @@
-. raw:: html
+.. raw:: html
 
     <br><br><br>
 
@@ -9,6 +9,6 @@ absoluut
 
 .. raw:: html
 
-    <br>
+    <br><br>
 
 .. image:: absoluut2.jpg

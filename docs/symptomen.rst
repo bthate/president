@@ -15,17 +15,8 @@ symptomen
 
 .. include:: vergiftiging
 
-bijwerkingen
-============
-
 .. include:: bijwerking.rst
 
-negatieve symptomen
-===================
-
 .. include:: dopamine
-
-ontwenning
-==========
 
 .. include:: ontwenning.rst

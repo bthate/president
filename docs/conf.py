@@ -85,7 +85,7 @@ html_theme_options = {
     'link_hover': '#000',
     'nosidebar': True,
     'show_powered_by': False,
-    'show_relbar_top': False,
+    'show_relbar_top': True,
     'sidebar_width': 0,
 }
 html_favicon = "aes.ico"

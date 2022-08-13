@@ -11,6 +11,6 @@ igz
 
 .. raw:: html
 
-    <br>
+    <br><br>
 
 .. image:: igz.jpg

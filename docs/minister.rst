@@ -11,7 +11,7 @@ minister
 
 .. raw:: html
 
-    <br>
+    <br><br>
 
 
 .. image:: minister.jpg
