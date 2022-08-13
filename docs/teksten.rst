@@ -17,6 +17,7 @@ teksten
 .. toctree::
     :maxdepth: 1
  
+    symptomen
     aangifte
     aantallen
     beuker
@@ -39,7 +40,6 @@ teksten
     misdrijf
     pad
     recht
-    symptomen
     uitspraak
     wet
     absoluut
