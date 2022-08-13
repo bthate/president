@@ -7,13 +7,16 @@
 
 
 __name__ = "president"
-__version__ = "74"
+__version__ = "100"
 
 
 import doctest
 import os
 import sys
 import unittest
+
+
+sys.setrecursionlimit(1500)
 
 
 curdir = os.getcwd()
@@ -77,7 +80,7 @@ html_theme_options = {
     'github_repo': __name__,
     'github_button': False,
     'github_banner': False,
-    'logo': 'skull.jpg',
+    'logo': 'aes.ico',
     'link': '#000',
     'link_hover': '#000',
     'nosidebar': True,
@@ -120,7 +123,7 @@ rst_epilog = """.. raw:: html
     <center><b>
 
 
-:ref:`home <home>` - :ref:`source <source>`
+:ref:`home <home>` - :ref:`teksten <teksten>` - :ref:`source <source>`
 
 
 .. raw:: html

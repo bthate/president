@@ -1,14 +1,20 @@
 .. _vervolgen:
 
-vervolgen
-#########
+.. raw:: html
 
-.. image:: nederland2.jpg
-    :width: 100%
-    :height: 4cm
+    <br><br>
+
+.. title:: vervolgen
+
+vervolgen
+=========
+
+.. raw:: html
+
+    <br>
 
 strafrecht
-##########
+~~~~~~~~~~
 
 | 285.1 Bedreiging met enig misdrijf tegen het leven gericht wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -18,12 +24,12 @@ strafrecht
 
 | 294.1 Hij die opzettelijk een ander tot zelfdoding aanzet, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
+
 dodelijk
-########
+~~~~~~~~
 
 | Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen`.
 
 | Antispychotica zijn dodelijk, zie :ref:`toxic <toxic>`.
 | Antipsychotica zijn dodelijk, zie de bijsluiter van bijv. :ref:`clozapine <clozapine>`.
 | Antipsychotica zijn dodelijk, zie https://vergiftigingen.info, zoek bijv. Zyprexa
-

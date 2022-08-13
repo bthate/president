@@ -6,14 +6,14 @@
 
 
 import os
+import sys
 
 
 def popen(txt):
     for line in os.popen(txt).readlines():
         print(line.rstrip())
+        sys.stdout.flush()
 
-
-popen("dev/clean")
 popen("python3 setup.py sdist")
 popen("python3 -mvirtualenv --system-site-packages env")
 popen("env/bin/pip3 install president -f dist --upgrade --force-reinstall --no-cache-dir --no-deps")

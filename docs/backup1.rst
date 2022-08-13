@@ -1,11 +1,18 @@
-.. title:: Het is gif.
+.. raw:: html
 
-.. image:: nederland2.jpg
-    :width: 100%
+    <br><br>
+
+
+.. title:: het is gif.
+
 
 minister-president
 ##################
 
+
+.. raw:: html
+
+    <br>
 
 Geachte Minister-President,
 

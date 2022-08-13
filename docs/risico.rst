@@ -1,7 +1,17 @@
 .. _risico:
 
-aanzienlijk risico
-##################
+.. raw:: html
+
+    <br><br>
+
+.. title:: risico
+
+risico
+======
+
+.. raw:: html
+
+    <br>
 
 "Zonder schuldig bevinding !"
 

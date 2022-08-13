@@ -1,7 +1,17 @@
 .. _oorzaak:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: oorzaal
+
 oorzaak
-#######
+=======
+
+.. raw:: html
+
+    <br>
 
 | stimuleer prolactine productie.
 | verstoort temperatuurregeling.

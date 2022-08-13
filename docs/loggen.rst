@@ -1,7 +1,17 @@
 .. _loggen:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: loggen
+
 loggen
-######
+======
+
+.. raw:: html
+
+    <br>
 
 "Het bewust gebruikerschap mag niet onthouden worden."
 

@@ -1,7 +1,17 @@
 .. _recht:
 
-strafrecht
-##########
+.. raw:: html
+
+    <br><br>
+
+.. title:: recht
+
+recht
+=====
+
+.. raw:: html
+
+    <br>
 
 | 285.1 Bedreiging met enig misdrijf tegen het leven gericht wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.
 
@@ -11,8 +21,13 @@ strafrecht
 
 | 294.1 Hij die opzettelijk een ander tot zelfdoding aanzet, wordt, indien de zelfdoding volgt, gestraft met een gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
 
+
 dodelijk
-########
+========
+
+.. raw:: html
+
+    <br>
 
 "Hoezo schadelijk?"
 

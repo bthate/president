@@ -1,5 +1,18 @@
+.. _kamerbrief2:
+
+.. raw:: html
+
+    <br><br>
+
+.. title:: kamerbrief2
+
 kamerbrief2
-###########
+===========
+
+.. raw:: html
+
+    <br>
+
 
 
 								   Heerhugowaard, 26 oktober 2015

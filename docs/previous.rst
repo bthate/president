@@ -1,10 +1,17 @@
-.. title:: Gif toedienende artsen de cel in 
+.. _previous:
 
-.. image:: nederland2.jpg
-    :width: 100%
+.. raw:: html
 
-minister-president
-##################
+    <br><br>
+
+.. title:: previous
+
+previous
+========
+
+.. raw:: html
+
+    <br>
 
 Geachte Minister-President,
 

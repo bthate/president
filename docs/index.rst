@@ -1,14 +1,18 @@
 .. _home:
 
-.. raw: html
+.. raw:: html
 
     <br><br>
 
 .. title:: Prosecutor. Court. Reconsider OTP-CR-117/19.
 
 
-MINISTER-PRESIDENT
-##################
+**MINISTER-PRESIDENT**
+
+.. raw:: html
+
+    <br>
+
 
 Geachte Minister-President,
 
@@ -60,11 +64,11 @@ Er van uitgaande dat u mijn eisen inwilligt,
 
     <br><br>
 
-Bart Thate - :ref:`teksten <teksten>`
+Bart Thate
 
 
 .. toctree::
     :hidden:
-    :glob:
 
-    *
+    source
+    teksten

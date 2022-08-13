@@ -1,7 +1,17 @@
 .. _vergiftiging:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: vergiftiging
+
 vergiftiging
-############
+============
+
+.. raw:: html
+
+    <br>
 
 “Test toont dat men aan het vergiftigen is. De bijwerkingen zijn vergiftigingssymptomen.”
 

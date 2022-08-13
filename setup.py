@@ -70,7 +70,7 @@ setup(
     license='Public Domain',
     packages=["president"],
     include_package_data=True,
-    zip_safe=True,
+    zip_safe=False,
     scripts=["bin/president"],
     long_description='''
 Geachte Minister-President,
@@ -124,9 +124,9 @@ Bart Thate
 
 ''',
    data_files=[
-               ('docs', uploadlist("docs")),
-               ('docs/_static', uploadlist("docs/_static")),
-               ('docs/_templates', uploadlist("docs/_templates"))
+               ('share/doc/president', uploadlist("docs")),
+               ('share/doc/president/_static', uploadlist("docs/_static")),
+               ('share/doc/president/_templates', uploadlist("docs/_templates"))
               ],
    classifiers=[
         'Development Status :: 3 - Alpha',

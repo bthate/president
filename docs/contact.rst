@@ -1,7 +1,17 @@
 .. _contact:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: contact
+
 contact
 #######
+
+.. raw:: html
+
+    <br>
 
 .. image:: bart.jpg
     :scale: 10%

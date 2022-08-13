@@ -1,7 +1,18 @@
 .. _bijwerkingen:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: bijwerkingen
+
+
 bijwerkingen clozapine
 ======================
+
+.. raw:: html
+
+    <br>
 
 Table 10. Adverse Reactions (≥2%) Reported in CLOZARIL-treated Patients (N=842) Across all CLOZARIL Studies (excluding the 2-year InterSePTTM Study)
 

@@ -1,7 +1,17 @@
 .. _wvggz:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: wvggz
+
 wvggz
-#####
+=====
+
+.. raw:: html
+
+    <br>
 
 Peter C. Gotzsche heeft de Tweede Kamer op 29 maart 2016 geinformeerd over de dodelijkheid van psychiatrische medicijnen. 
 De Tweede Kamer is dus op de hoogte dat het om gif gaat en niet om medicijnen. Ook de minister weet dat het hier om gif gaat, 

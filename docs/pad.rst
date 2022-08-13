@@ -1,7 +1,17 @@
 .. _pad:
 
-evrm
-####
+.. raw:: html
+
+    <br><br>
+
+.. title:: pad
+
+pad
+======
+
+.. raw:: html
+
+    <br>
 
 | In 2012 heb ik het Europeese Hof voor de Rechten van de Mens :ref:`aangeschreven <verzoek>` om een klacht tegen Nederland in te dienen.
 | De :ref:`klacht <greffe>` betrof het afwezig zijn van verpleging in het nieuwe ambulante behandeltijdperk van de GGZ.

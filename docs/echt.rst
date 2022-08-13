@@ -1,7 +1,17 @@
 .. _echt:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: echt
+
 echt
-####
+====
+
+.. raw:: html
+
+    <br>
 
 Bijv. clozapine kan de volgende potentieel dodelijk aandoeningen veroorzaken:
 

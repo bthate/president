@@ -1,7 +1,17 @@
 .. _verzoek:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: verzoek
+
 verzoek
-#######
+=======
+
+.. raw:: html
+
+    <br>
 
 From: Bart Thate <bthate@gmail.com>
 Date: 2012/10/18

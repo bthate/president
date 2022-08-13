@@ -1,11 +1,24 @@
 .. _fact:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: fact
+
+
+.. raw:: html
+
+    <br>
+
 .. image:: fact.jpg
     :width: 100%
     :height: 4cm
 
+
 (f)act
-######
+======
+
 
 Brengt het toedienen van gif levensgevaar, het nalaten de noodzakelijke verpleging te leveren brengt de dood:
 

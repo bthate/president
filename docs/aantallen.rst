@@ -1,7 +1,17 @@
 .. _aantallen:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: aantallen
+
 aantallen
-#########
+=========
+
+.. raw:: html
+
+    <br>
 
                                   2011 2012 2013 2014
 

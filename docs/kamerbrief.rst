@@ -1,5 +1,16 @@
-kamerbrief
-##########
+.. _kamerbrief:
 
+.. raw:: html
+
+    <br><br>
+
+.. title:: kamerbrief
+
+kamerbrief
+==========
+
+.. raw:: html
+
+    <br>
 
 .. literalinclude:: kamerbrief.txt

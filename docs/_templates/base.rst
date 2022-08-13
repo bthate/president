@@ -1,6 +1,27 @@
+.. _{{ fullname }}:
+
+.. raw:: html
+
+    <br>
+    <center><b>
+    <br><br>
+    </b>
+
+.. title:: {{ fullname }}
+
 {{ fullname }}
 {{ underline }}
 
-.. auto{{ objtype }}:: {{ objname }}
+.. raw:: html
 
-.. currentmodule:: {{ module }}
+    </b></center>
+    <br>
+
+.. auto{{ objtype }}:: {{ fullname }}
+    :members:
+    :private-members:
+    :undoc-members:
+
+.. raw:: html
+
+    <br><br>
