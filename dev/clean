@@ -4,3 +4,4 @@
 
 rm -fR build dist president.egg-info bin/*~ *~
 rm -fR html dev/*~ docs/*~ docs/president.*.rst .readthedocs.yml~ president/*~ president/__pycache__  
+rm -fR docs/_templates/*~
