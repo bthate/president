@@ -7,7 +7,7 @@
 .. title:: source
 
 
-**genocide package**
+**president package**
 
 .. raw:: html
 

@@ -114,7 +114,6 @@ rst_prolog = '''.. image:: nederland2.jpg
     :width: 100%
     :height: 3cm
     :target: index.html
-
 '''
 
 rst_epilog = """.. raw:: html

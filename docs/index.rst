@@ -71,5 +71,4 @@ Bart Thate
 .. toctree::
     :hidden:
 
-    source
     teksten
