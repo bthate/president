@@ -7,7 +7,7 @@
 
 
 __name__ = "president"
-__version__ = "100"
+__version__ = "101"
 
 
 import doctest
@@ -85,7 +85,7 @@ html_theme_options = {
     'link_hover': '#000',
     'nosidebar': True,
     'show_powered_by': False,
-    'show_relbar_top': True,
+    'show_relbar_top': False,
     'sidebar_width': 0,
 }
 html_favicon = "aes.ico"

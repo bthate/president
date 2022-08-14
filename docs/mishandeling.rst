@@ -50,7 +50,7 @@ Bijv. clozapine kan de volgende potentieel dodelijk aandoeningen veroorzaken:
 | Fecal Impaction (vastzittend stront)
 | Paralytic Ileus (ook voedsel vastzittend in de darm)
 
-| Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen`.
+| Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen <symptomen>`.
 
 schadelijk
 ##########

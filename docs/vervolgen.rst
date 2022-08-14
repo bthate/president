@@ -28,7 +28,7 @@ strafrecht
 dodelijk
 ~~~~~~~~
 
-| Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen`.
+| Een patient kan door toediening van antipsychotica te maken krijgen met positieve en negatieve symptomen, symptomen van vergiftiging, onthoudingsverschijnselen en ernstige bijwerkingen, zie :ref:`symptomen <symptomen>`.
 
 | Antispychotica zijn dodelijk, zie :ref:`toxic <toxic>`.
 | Antipsychotica zijn dodelijk, zie de bijsluiter van bijv. :ref:`clozapine <clozapine>`.

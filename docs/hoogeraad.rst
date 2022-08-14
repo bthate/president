@@ -1,12 +1,12 @@
-.. _hoogeraad:
+.. _hogeraad:
 
 .. raw:: html
 
     <br><br><br>
 
-.. title:: hoogeraad
+.. title:: hogeraad
 
-hoogeraad
+hogeraad
 =========
 
 .. raw:: html

@@ -1,3 +1,5 @@
+.. _beuker:
+
 .. raw:: html
 
     <br><br><br>
