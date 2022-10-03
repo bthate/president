@@ -1,4 +1,4 @@
 # This file is placed in the Public Domain.
 
-dev/clean
+bin/clean
 rm -fR env html
