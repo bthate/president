@@ -62,11 +62,11 @@ def uploadlist(dir):
 
 setup(
     name='president',
-    version='100',
+    version='101',
     url='https://bitbucket.org/bthate/president',
     author='Bart Thate',
     author_email='bthate@dds.nl',
-    description="Prosecutor. Court. Reconsider OTP-CR-117/19.",
+    description="@KarimKhanQC reconsider OTP-CR-117/19",
     license='Public Domain',
     packages=["president"],
     include_package_data=True,
