@@ -34,7 +34,7 @@ project = __name__
 master_doc = 'index'
 version = '%s' % __version__
 release = '%s' % __version__
-language = ''
+language = 'utf-8'
 today = ''
 today_fmt = '%B %d, %Y'
 needs_sphinx='1.7'
@@ -112,7 +112,7 @@ intersphinx_cache_limit=1
 
 rst_prolog = '''.. image:: nederland2.jpg
     :width: 100%
-    :height: 3cm
+    :height: 2.6cm
     :target: index.html
 '''
 autosummary_generate=True

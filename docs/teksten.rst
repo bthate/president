@@ -29,10 +29,8 @@ teksten
     minister
     opzet2
     receptoren
-    source
     tussenkomst
     verzoek
-    aantallen
     bijwerkingen
     ernstig
     hoogeraad
