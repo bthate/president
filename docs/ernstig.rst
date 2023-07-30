@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: ernstig
+
+
+.. raw:: html
+
+
+    <center>
 
 ernstig
 =======
 
 .. raw:: html
 
+    </center>
     <br>
 
 

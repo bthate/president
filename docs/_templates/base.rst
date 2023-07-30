@@ -3,9 +3,7 @@
 .. raw:: html
 
     <br>
-    <center><b>
-    <br><br>
-    </b>
+    <center>
 
 .. title:: {{ fullname }}
 

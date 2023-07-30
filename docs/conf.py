@@ -89,7 +89,7 @@ html_theme_options = {
     'sidebar_width': 0,
 }
 html_favicon = "aes.ico"
-html_extra_path = []
+html_extra_path = ["robots.txt"]
 html_last_updated_fmt = '%Y-%b-%d'
 html_additional_pages = {}
 html_domain_indices = False
@@ -114,7 +114,35 @@ rst_prolog = '''.. image:: nederland2.jpg
     :width: 100%
     :height: 2.6cm
     :target: index.html
+
+
+.. raw:: html
+
+    <br><br>
+    <center>
+    <i>
+    ANTIPSYCHOTICS - AKATHISIA - CATATONIA - SEDATION - SHOCKS - LETHAL CATATONIA
+    </i>
+    </center>
+
 '''
+
+
+rst_epilog = '''.. raw:: html
+
+     <br>
+     <center>
+     <b>
+
+:ref:`home <home>` - :ref:`manual <manual>` - :ref:`source <source>` - :ref:`text <teksten>` - :ref:`about <about>`
+
+.. raw:: html
+
+    </b>
+    </center>
+'''
+
+
 autosummary_generate=True
 autodoc_default_flags=['members', 'undoc-members', 'private-members', "imported-members"]
 autodoc_member_order='groupwise'

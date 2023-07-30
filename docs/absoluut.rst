@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: absoluut
+
+
+.. raw::
+
+    <center>
+
 
 absoluut
 ========
 
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
 .. image:: absoluut2.jpg

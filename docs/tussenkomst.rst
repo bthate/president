@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: tussenkomst
+
+
+.. raw:: html
+
+    <center>
 
 tussenkomst
 ===========
 
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
 .. image:: 20151029_004.jpg

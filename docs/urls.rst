@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: urls
+
+
+.. raw:: html
+
+    <center>
 
 urls
 ====
 
 .. raw:: html
 
+    </center>
     <br>
 
 .. _18procent:

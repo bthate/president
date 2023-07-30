@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: bedreiging
+
+
+.. raw:: html
+
+    <center>
 
 bedreiging op het leven
 =======================
 
+
 .. raw:: html
 
+    </center>
     <br>
 
 

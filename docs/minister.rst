@@ -1,17 +1,26 @@
 .. _minister:
 
+
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
 
 .. title:: minister
+
+
+.. raw:: html
+
+    <center>
 
 minister
 ========
 
+
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
 
 .. image:: minister.jpg

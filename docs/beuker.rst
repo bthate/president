@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: beuker
+
+
+.. raw:: html
+
+    <center>
 
 beuker
 ======
 
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
 .. image:: 20151029_004.jpg

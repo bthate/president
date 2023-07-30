@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: opzet
+
+
+.. raw:: html
+
+    <center>
 
 opzet
 =====
 
+
 .. raw:: html
 
+    </center>
     <br>
 
 Aan de (F)ACT methodiek kan men zien dat men een opzet tot vergiftigen heeft, men zegt het toedienen van gif “verantwoord” te kunnen doen:

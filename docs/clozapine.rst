@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: clozapine
+
+
+.. raw:: html
+
+    <center>
 
 clozapine
 =========
 
 .. raw:: html
 
+    </center>
     <br>
 
 Clozapine is een dodelijke stof, zie de bijsluiter van de FDA:

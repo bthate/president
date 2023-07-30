@@ -4,13 +4,18 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
+.. raw:: html
+
+    <center>
 
 aangifte
 ========
 
 .. raw:: html
 
+    </center>
     <br>
 
 

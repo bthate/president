@@ -1,16 +1,24 @@
 .. _risico:
 
+
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
 
 .. title:: risico
+
+
+.. raw:: html
+
+    <center>
 
 risico
 ======
 
 .. raw:: html
 
+    </center>
     <br>
 
 "Zonder schuldig bevinding !"

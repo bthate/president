@@ -2,16 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: Prosecutor. Court. Reconsider OTP-CR-117/19.
 
+
+.. raw:: html
+
+    <center>
 
 teksten
 =======
 
 .. raw:: html
 
+    </center>
     <br>
 
 .. toctree::

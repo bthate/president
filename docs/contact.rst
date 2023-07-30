@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: contact
+
+
+.. raw:: html
+
+    <center>
 
 contact
 #######
 
 .. raw:: html
 
+    </center>
     <br>
 
 .. image:: bart.jpg

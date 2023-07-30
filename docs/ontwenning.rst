@@ -1,16 +1,25 @@
-.. title:: ontwenning
-
 .. _ontwenning:
+
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
+
+.. title:: ontwenning
+
+
+.. raw:: html
+
+    <center>
 
 ontwenning
 ==========
 
+
 .. raw:: html
 
+    </center>
     <br>
 
 

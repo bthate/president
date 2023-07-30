@@ -2,15 +2,20 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: wet
+
+.. raw:: html
+
+    <center>
 
 wet
 ===
 
 .. raw:: html
 
+    </center>
     <br>
 
 285.1 Bedreiging met enig misdrijf tegen het leven gericht wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde categorie.

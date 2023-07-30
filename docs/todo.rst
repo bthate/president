@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: todo
+
+
+.. raw:: html
+
+
+    <center>
 
 todo
 ====
 
 .. raw:: html
 
+    </center>
     <br>
 
 Er moet aangifte tegen de staat gedaan worden voor het op grote schaal overtreden van de eigen wet, namelijk het misdrijf tegen het leven gericht.

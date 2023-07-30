@@ -2,15 +2,20 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: greffe
+
+.. raw:: html
+
+    <center>
 
 greffe
 ======
 
 .. raw:: html
 
+    </center>
     <br>
 
 | 2012/11/8 Bart Thate <bthate@gmail.com<mailto:bthate@gmail.com>

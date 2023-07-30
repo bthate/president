@@ -2,15 +2,22 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: kamerbrief3
+
+
+.. raw:: html
+
+    <center>
+
 
 kamerbrief3
 ===========
 
 .. raw:: html
 
+    </center>
     <br>
 
 

@@ -1,16 +1,25 @@
 .. _receptoren:
 
+
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
 
 .. title:: receptoren
+
+
+... raw:: html
+
+
+    <center>
 
 receptoren
 ==========
 
 .. raw:: html
 
+    </center>
     <br>
 
 De volgende informatie geldt voor antipsychotica in het algemeen:

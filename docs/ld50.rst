@@ -1,16 +1,25 @@
 .. _ld50:
 
+
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
 
 .. title:: ld50
+
+
+.. raw:: html
+
+
+    <center>
 
 ld50 oral intake
 ================
 
 .. raw:: html
 
+    </center>
     <br>
 
 

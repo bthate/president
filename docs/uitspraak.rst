@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: uitspraak
+
+
+.. raw:: html
+
+    <center>
 
 uitspraak
 =========
 
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
 .. image:: 20140730_011.jpg

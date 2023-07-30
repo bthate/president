@@ -4,13 +4,18 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
+.. raw:: html
+
+    <center>
 
 bijwerking
 ==========
 
 .. raw:: html
 
+    </center>
     <br>
 
 Bijwerkingen van antipsychotica:

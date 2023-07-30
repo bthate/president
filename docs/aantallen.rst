@@ -2,16 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: aantallen
+
+.. raw:: html
+
+    <center>
 
 aantallen
 =========
 
 .. raw:: html
 
-    <br><br>
+    </center>
+    <br>
 
                                   2011 2012 2013 2014
 

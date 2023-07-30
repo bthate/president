@@ -2,15 +2,21 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: pad
+
+
+.. raw:: html
+
+    <center>
 
 pad
 ===
 
 .. raw:: html
 
+    </center>
     <br>
 
 | In 2012 heb ik het Europeese Hof voor de Rechten van de Mens :ref:`aangeschreven <verzoek>` om een klacht tegen Nederland in te dienen.

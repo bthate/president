@@ -1,16 +1,25 @@
 .. _misdrijven:
 
+
 .. raw:: html
 
-    <br><br><br>
+    <br>
+
 
 .. title:: misdrijven
+
+
+.. raw:: html
+
+    <center>
+
 
 misdrijven
 ==========
 
 .. raw:: html
 
+    </center>
     <br>
 
 

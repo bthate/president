@@ -2,15 +2,20 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: toxic
+
+.. raw:: html
+
+    <center>
 
 tocix
 =====
 
 .. raw:: html
 
+    </center>
     <br>
 
 Haldol:

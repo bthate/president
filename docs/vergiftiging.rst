@@ -2,15 +2,20 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: vergiftiging
+
+.. raw:: html
+
+    <center>
 
 vergiftiging
 ============
 
 .. raw:: html
 
+    </center>
     <br>
 
 “Test toont dat men aan het vergiftigen is. De bijwerkingen zijn vergiftigingssymptomen.”

@@ -2,15 +2,20 @@
 
 .. raw:: html
 
-    <br><br><br>
+    <br>
 
 .. title:: hogeraad
+
+.. raw:: html
+
+    <center>
 
 hogeraad
 =========
 
 .. raw:: html
 
+    </center>
     <br>
 
 
