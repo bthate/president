@@ -39,7 +39,7 @@ manual
 **DESCRIPTION**
 
 
- ``PERSIDENT`` is a python3 IRC bot is intended to be programmable  in a
+ ``PRESIDENT`` is a python3 IRC bot is intended to be programmable  in a
  static, only code, no popen, no user imports and no reading modules from
  a directory, way. It can show genocide and suicide stats of king netherlands
  his genocide into a IRC channel, display rss feeds and log simple text
