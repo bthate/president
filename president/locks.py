@@ -13,3 +13,4 @@ def __dir__():
 
 
 disklock = _thread.allocate_lock()
+hooklock = _thread.allocate_lock()
