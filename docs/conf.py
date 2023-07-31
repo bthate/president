@@ -7,7 +7,7 @@
 
 
 __name__ = "president"
-__version__ = "101"
+__version__ = "111"
 
 
 import doctest
