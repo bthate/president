@@ -110,7 +110,7 @@ intersphinx_mapping = {
 intersphinx_cache_limit=1
 
 
-rst_prolog = '''.. image:: nederland2.jpg
+rst_prolog = '''.. image:: bewijsgif4.jpg
     :width: 100%
     :height: 2.6cm
     :target: index.html
