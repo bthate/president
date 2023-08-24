@@ -27,9 +27,6 @@ classifiers=[
 "source" = "https://github.com/bthate/president"
 
 
-[project.scripts]
-president = "president.__main__:wrapped"
-
 
 [project.optional-dependencies]
 dev = []
@@ -40,6 +37,7 @@ packages = [
             "president.modules"
            ]
 zip-safe = true
+script-files = ["bin/president"]
 
 
 
