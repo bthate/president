@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "president"
-description = "ANTIPSYCHOTICS - AKATHISIA - CATATONIA - SEDATION - SHOCKS - LETHAL CATATONIA"
-version = "111"
+description = "@KarimKhanQC @IntlCrimCourt @oszagi reconsider OTP-CR-117/19"
+version = "112"
 authors = [
     {name = "Bart Thate", email = "bthate@dds.nl" },
 ]
