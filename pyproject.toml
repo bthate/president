@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "president"
-description = "Elderly, Handicapped, Criminals, Wicked"
-version = "120"
+description = "Bejaarden, Gehandicapten, Criminelen, Psychiatrische Patienten"
+version = "121"
 authors = [
     {name = "Bart Thate", email = "bthate@dds.nl" },
 ]

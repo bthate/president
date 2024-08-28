@@ -3,11 +3,11 @@
 #
 
 
-"Prosecutor. Court. Reconsider OTP-CR-117/19."
+"Elderly, Handicapped, Criminals, Wicked"
 
 
 __name__ = "president"
-__version__ = "111"
+__version__ = "121"
 
 
 import doctest
@@ -129,7 +129,7 @@ rst_epilog = '''.. raw:: html
      <center>
      <b>
 
-:ref:`home <home>` - :ref:`manual <manual>` - :ref:`source <source>` - :ref:`about <about>`
+:ref:`home <home>` - :ref:`text <teksten>` - :ref:`manual <manual>` - :ref:`source <source>` - :ref:`about <about>`
 
 .. raw:: html
 

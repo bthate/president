@@ -3,25 +3,13 @@
 
 .. raw:: html
 
-     <br>
+     <br><br>
+
 
 .. title:: Source
 
 
-.. raw:: html
-
-    <center>
-
-
-source
-######
-
-.. raw:: html
-
-     </center>
-
-
-**GENOCIDE**
+**OTPCR**
 
 .. raw:: html
 
@@ -32,19 +20,28 @@ source
     :toctree: 
     :template: base.rst
 
-    president.bus	bus
-    president.command   commands
-    president.error	errors
-    president.event	events
-    president.json	decoder/encoder
-    president.locks	locks module
-    president.modules   plugins
-    president.object	a clean namespace
-    president.parser	parsing
-    president.reactor   reacting
-    president.repeater  repeating 
-    president.thread    threading
-    president.utils     utilities
+    president.cache
+    president.config
+    president.client
+    president.cmds
+    president.console
+    president.decoder
+    president.default
+    president.encoder
+    president.errors
+    president.event
+    president.fleet
+    president.group
+    president.log
+    president.main
+    president.object
+    president.parse
+    president.persist
+    president.reactor
+    president.repeater
+    president.thread
+    president.timer
+    president.utils
 
 
 .. raw:: html
@@ -59,21 +56,16 @@ source
 
      <br>
 
-
 .. autosummary::
     :toctree: 
     :template: base.rst
 
-    president.modules.cmd	list of commands
-    president.modules.dbg 	debug module
-    president.modules.err	occured errors
-    president.modules.flt	list of bots
-    president.modules.irc	internet relay chat
-    president.modules.log	log text
-    president.modules.mdl	genocide model
-    president.modules.req	request
-    president.modules.rss	rich site syndicate
-    president.modules.sts	status of bots
-    president.modules.tdo	todo list
-    president.modules.udp	udp to irc relay
-    president.modules.wsd 	wisdom
+    president.modules.cmd
+    president.modules.err
+    president.modules.irc
+    president.modules.log
+    president.modules.mod
+    president.modules.req
+    president.modules.rss
+    president.modules.tdo
+    president.modules.thr

@@ -1,182 +1,153 @@
 .. _manual:
 
-
 .. raw:: html
 
-    <br>
-
+    <br><br>
 
 .. title:: Manual
 
 
-.. raw:: html
-
-    <center>
-
-manual
-######
-
-
-.. raw:: html
-
-    </center>
-    <br>
-
 **NAME**
 
- | ``PRESIDENT`` - Reconsider OTP-CR-117/19
+    ``PRESIDENT`` - Bejaarden, Gehandicapten, Criminelen, Psychiatrische Patienten `! <source.html>`_
 
 
 **SYNOPSIS**
 
- ::
+::
 
-  president <cmd> [key=val] 
-  president <cmd> [key==val]
-  president [-c] [-d] [-v]
+    president  <cmd> [key=val] [key==val]
+    presidentc [-i] [-v]
+    presidentd 
 
 
 **DESCRIPTION**
 
 
- ``PRESIDENT`` is a python3 IRC bot is intended to be programmable  in a
- static, only code, no popen, no user imports and no reading modules from
- a directory, way. It can show genocide and suicide stats of king netherlands
- his genocide into a IRC channel, display rss feeds and log simple text
- messages, source is `here <source.html>`_.
-
+    Op 20 Oktober 2012 heb ik na correspondentie met de Koningin een klacht tegen de Nederland ingedient (Thate tegen Nederland 69389/12). De klacht betrof het falen van de
+    (F)ACT methodiek, de methode die GGZ Nederland gebruikt om vorm te geven aan de wetten die gedwongen behandeling in Nederland mogelijk maken. De uitspraak is niet-ontvankelijk.
 
 
 **INSTALL**
 
- with sudo::
+::
 
-  $ python3 -m pip install president
+    $ pipx install president
+    $ pipx ensurepath
 
- as user::
+    <new terminal>
 
-  $ pipx install president
+    $ president srv > president.service
+    $ sudo mv *.service /etc/systemd/system/
+    $ sudo systemctl enable president --now
 
- or download the tar, see::
-
-  https://pypi.org/project/president
+    joins #president on localhost
 
 
 **USAGE**
 
+    without any argument the bot does nothing
 
- list of commands::
+    ::
 
-    $ president cmd
-    cmd,err,flt,sts,thr,upt
+        $ president
+        $
 
- start a console::
+    see list of commands
 
-    $ president -c
-    >
+    ::
 
- start additional modules::
+        $ president cmd
+        cmd,req,skl,srv
 
-    $ president mod=<mod1,mod2> -c
-    >
 
- list of modules::
+    start a console
 
-    $ president mod
-    cmd,err,flt,fnd,irc,log,mdl,mod,
-    req, rss,slg,sts,tdo,thr,upt,ver
+    ::
 
- to start irc, add mod=irc when
- starting::
+        $ presidentc
+        >
 
-     $ president mod=irc -c
+    start daemon
 
- to start rss, also add mod=rss
- when starting::
+    ::
 
-     $ president mod=irc,rss -c
+        $ presidentd
+        $ 
 
- start as daemon::
 
-     $ president mod=irc,rss -d
-     $ 
+    show request to the prosecutor
+
+    ::
+
+        $ president req
+        Information and Evidence Unit
+        Office of the Prosecutor
+        Post Office Box 19519
+        2500 CM The Hague
+        The Netherlands
 
 
 **CONFIGURATION**
 
+    irc
 
- *irc*
+    ::
 
- ::
+        $ president cfg server=<server>
+        $ president cfg channel=<channel>
+        $ president cfg nick=<nick>
 
-    $ president cfg server=<server>
-    $ president cfg channel=<channel>
-    $ president cfg nick=<nick>
+    sasl
 
- *sasl*
+    ::
 
- ::
+        $ president pwd <nsvnick> <nspass>
+        $ president cfg password=<frompwd>
 
-    $ president pwd <nsvnick> <nspass>
-    $ president cfg password=<frompwd>
+    rss
 
- *rss*
+    ::
 
- ::
-
-    $ president rss <url>
-    $ president dpl <url> <item1,item2>
-    $ president rem <url>
-    $ president nme <url< <name>
+        $ president rss <url>
+        $ president dpl <url> <item1,item2>
+        $ president rem <url>
+        $ president nme <url> <name>
 
 
 **COMMANDS**
 
+    ::
 
- ::
+        cfg - irc configuration
+        cmd - commands
+        mre - displays cached output
+        pwd - sasl nickserv name/pass
+        req - reconsider
 
-    cmd - commands
-    cfg - irc configuration
-    dlt - remove a user
-    dpl - sets display items
-    ftc - runs a fetching batch
-    fnd - find objects 
-    flt - instances registered
-    log - log some text
-    mdl - genocide model
-    met - add a user
-    mre - displays cached output
-    nck - changes nick on irc
-    now - genocide stats
-    pwd - sasl nickserv name/pass
-    rem - removes a rss feed
-    req - reconsider
-    rss - add a feed
-    slg - slogan
-    thr - show the running threads
-    tpc - genocide stats into topic
+
+**SOURCE**
+
+
+    source is :ref:`here <source>`
 
 
 **FILES**
 
- ::
+    ::
 
-    ~/.local/bin/president
-    ~/.local/pipx/venvs/president/
-    /usr/local/bin/president
-    /usr/local/share/doc/president
+        ~/.president 
+        ~/.local/bin/president
+        ~/.local/bin/presidentc
+        ~/.local/bin/presidentd
+        ~/.local/pipx/venvs/president/*
 
 
 **AUTHOR**
 
-
- ::
- 
     Bart Thate <bthate@dds.nl>
 
 
 **COPYRIGHT**
 
- ::
-
-    PRESIDENT is Public Domain.
+    ``PRESIDENT`` is Public Domain.
