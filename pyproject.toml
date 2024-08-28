@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "president"
-description = "@KarimKhanQC @IntlCrimCourt @oszagi reconsider OTP-CR-117/19"
-version = "112"
+description = "Elderly, Handicapped, Criminals, Wicked"
+version = "120"
 authors = [
     {name = "Bart Thate", email = "bthate@dds.nl" },
 ]
@@ -19,6 +19,12 @@ classifiers=[
              'Programming Language :: Python',
              'Topic :: Utilities'
             ]
+
+[project.scripts]
+"president"  = "president.__main__:wrapped"
+"presidentc" = "president.prompt:wrapped"
+"presidentd" = "president.daemon:wrapped"
+
 
 
 [project.urls]
@@ -37,8 +43,6 @@ packages = [
             "president.modules"
            ]
 zip-safe = true
-script-files = ["bin/president"]
-
 
 
 [tool.setuptools.data-files]
