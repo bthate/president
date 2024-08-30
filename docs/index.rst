@@ -55,7 +55,7 @@ Er van uitgaande dat u mijn eisen inwilligt,
 
 .. raw:: html
 
-    <br><br>
+    <br>
 
 Bart Thate 
 
