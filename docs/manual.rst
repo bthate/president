@@ -50,10 +50,10 @@
 
 **FILES**
 
-    ::
+::
 
-        ~/.president 
-        ~/.local/pipx/venvs/president/*
+    ~/.president 
+    ~/.local/pipx/venvs/president/*
 
 
 **AUTHOR**
