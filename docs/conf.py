@@ -3,11 +3,11 @@
 #
 
 
-"Elderly, Handicapped, Criminals, Wicked"
+"Bejaarden en Gehandicapten (Wzd), Criminelen (Wzd), Psychiatrische Patienten (WvGGZ)"
 
 
 __name__ = "president"
-__version__ = "121"
+__version__ = "131"
 
 
 import doctest
@@ -61,7 +61,7 @@ extensions=[
 # -- Options for HTML output -------------------------------------------------
 
 
-html_title = "Prosecutor. Court. Reconsider OTP-CR-117/19."
+html_title = "Bejaarden en Gehandicapten (Wzd), Criminelen (Wfz), Psychiatrische Patienten (WvGGZ)"
 html_style = 'president.css'
 html_static_path = ["_static"]
 html_css_files = ["president.css",]

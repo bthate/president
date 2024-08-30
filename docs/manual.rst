@@ -9,16 +9,14 @@
 
 **NAME**
 
-    ``PRESIDENT`` - Bejaarden, Gehandicapten, Criminelen, Psychiatrische Patienten `! <source.html>`_
+    ``PRESIDENT`` - Bejaarden en Gehandicapten (Wzd),  Criminelen (Wfz), Psychiatrische Patienten (WvGGZ)
 
 
 **SYNOPSIS**
 
 ::
 
-    president  <cmd> [key=val] [key==val]
-    presidentc [-i] [-v]
-    presidentd 
+    python3 -m president req
 
 
 **DESCRIPTION**
@@ -37,99 +35,17 @@
 
     <new terminal>
 
-    $ president srv > president.service
-    $ sudo mv *.service /etc/systemd/system/
-    $ sudo systemctl enable president --now
-
-    joins #president on localhost
-
 
 **USAGE**
 
-    without any argument the bot does nothing
+::
 
-    ::
-
-        $ president
-        $
-
-    see list of commands
-
-    ::
-
-        $ president cmd
-        cmd,req,skl,srv
-
-
-    start a console
-
-    ::
-
-        $ presidentc
-        >
-
-    start daemon
-
-    ::
-
-        $ presidentd
-        $ 
-
-
-    show request to the prosecutor
-
-    ::
-
-        $ president req
-        Information and Evidence Unit
-        Office of the Prosecutor
-        Post Office Box 19519
-        2500 CM The Hague
-        The Netherlands
-
-
-**CONFIGURATION**
-
-    irc
-
-    ::
-
-        $ president cfg server=<server>
-        $ president cfg channel=<channel>
-        $ president cfg nick=<nick>
-
-    sasl
-
-    ::
-
-        $ president pwd <nsvnick> <nspass>
-        $ president cfg password=<frompwd>
-
-    rss
-
-    ::
-
-        $ president rss <url>
-        $ president dpl <url> <item1,item2>
-        $ president rem <url>
-        $ president nme <url> <name>
-
-
-**COMMANDS**
-
-    ::
-
-        cfg - irc configuration
-        cmd - commands
-        mre - displays cached output
-        pwd - sasl nickserv name/pass
-        req - reconsider
-
-
-**SOURCE**
-
-
-    source is :ref:`here <source>`
+    $ python3 -m president req
+    Information and Evidence Unit
+    Office of the Prosecutor
+    Post Office Box 19519
+    2500 CM The Hague
+    The Netherlands
 
 
 **FILES**
@@ -137,9 +53,6 @@
     ::
 
         ~/.president 
-        ~/.local/bin/president
-        ~/.local/bin/presidentc
-        ~/.local/bin/presidentd
         ~/.local/pipx/venvs/president/*
 
 

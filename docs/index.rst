@@ -7,19 +7,6 @@
 .. title:: Prosecutor. Court. Reconsider OTP-CR-117/19.
 
 
-.. raw:: html
-
-    <center>
-
-president
-#########
-
-.. raw:: html
-
-    </center>
-    <br>
-
-
 Geachte Minister-President,
 
 Ik ben Bart Thate, een 50 jaar oude schizofrenie patient.
@@ -70,7 +57,7 @@ Er van uitgaande dat u mijn eisen inwilligt,
 
     <br><br>
 
-Bart Thate
+Bart Thate 
 
 
 .. toctree::
