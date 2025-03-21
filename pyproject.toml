@@ -5,8 +5,8 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "president"
-description = "Bejaarden en Gehandicapten (Wzd), Criminelen (Wfz), Psychiatrische Patienten (WvGGZ)"
-version = "131"
+description = "ANTIPSYCHOTICS - AKATHISIA - CATATONIA - SEDATION - SHOCKS - LETHAL CATATONIA"
+version = "133"
 authors = [
     {name = "Bart Thate", email = "bthate@dds.nl" },
 ]
@@ -22,7 +22,7 @@ classifiers=[
 
 
 [project.scripts]
-"president"  = "president.__main__:wrapped"
+"president"  = "president.__main__:main"
 
 
 [project.urls]
